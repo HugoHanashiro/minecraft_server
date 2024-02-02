@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 199.229.254.129
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1706748432099
+  login: 1706748371622
+money: '0'
+last-account-name: Naiwd_Gmer
+logoutlocation:
+  world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
+  world-name: world
+  x: 169.20182601687011
+  y: 63.0
+  z: -390.96561366108745
+  yaw: 179.9443359375
+  pitch: 5.632898330688477

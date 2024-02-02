@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.33.243.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1706216550752
+  login: 1706214821059
+money: '0'
+last-account-name: v_clara_c
+logoutlocation:
+  world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
+  world-name: world
+  x: 137.10504170269868
+  y: 63.0
+  z: -390.5403488929575
+  yaw: -92.549072265625
+  pitch: -12.600034713745117

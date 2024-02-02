@@ -1,0 +1,13 @@
+[04:11:59] [Craft Scheduler Thread - 198/INFO]: [Vault] Checking for Updates ... 
+[04:11:59] [Craft Scheduler Thread - 198/INFO]: [Vault] No new version available
+[10:11:59] [Craft Scheduler Thread - 205/INFO]: [Vault] Checking for Updates ... 
+[10:11:59] [Craft Scheduler Thread - 205/INFO]: [Vault] No new version available
+[16:11:59] [Craft Scheduler Thread - 208/INFO]: [Vault] Checking for Updates ... 
+[16:11:59] [Craft Scheduler Thread - 208/INFO]: [Vault] No new version available
+[19:46:33] [Server thread/INFO]: CONSOLE issued server command: /list 
+[19:46:33] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
+[19:50:58] [User Authenticator #22/INFO]: UUID of player ohugo is 22716f8c-aa82-3ae2-90eb-16958f427eac
+[19:50:58] [Server thread/INFO]: ohugo joined the game
+[19:50:58] [Server thread/INFO]: ohugo[/152.254.244.39:58926] logged in with entity id 164559 at ([world]161.3755460504736, 63.0, -397.3434359900424)
+[19:53:23] [Server thread/INFO]: ohugo lost connection: Disconnected
+[19:53:23] [Server thread/INFO]: ohugo left the game

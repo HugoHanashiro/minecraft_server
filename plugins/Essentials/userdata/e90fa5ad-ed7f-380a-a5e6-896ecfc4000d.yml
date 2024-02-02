@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 205.250.147.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1706674729582
+  login: 1706674727142
+money: '0'
+last-account-name: Miles4president
+logoutlocation:
+  world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
+  world-name: world
+  x: 140.00973564217378
+  y: 64.0
+  z: -376.3976464930595
+  yaw: 158.48265075683594
+  pitch: 34.887569427490234

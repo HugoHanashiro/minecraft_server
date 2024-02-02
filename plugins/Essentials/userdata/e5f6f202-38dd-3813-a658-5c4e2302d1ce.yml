@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 179.55.213.216
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1706710217095
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1706749003690
+  login: 1706748970194
+money: '0'
+last-account-name: _Barizon_
+lastlocation:
+  world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
+  world-name: world
+  x: 173.8786185877897
+  y: 63.0
+  z: -388.3473563065363
+  yaw: 25.29156494140625
+  pitch: 5.85004186630249
+logoutlocation:
+  world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
+  world-name: world
+  x: 570.5323642081345
+  y: 74.5
+  z: -1365.9833034672974
+  yaw: -0.7878557443618774
+  pitch: 44.250850677490234
+homes:
+  xp:
+    world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
+    world-name: world
+    x: 288.69999998807907
+    y: -36.0
+    z: -382.69999998807907
+    yaw: 43.30257034301758
+    pitch: 2.1009321212768555
+  encantamento:
+    world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
+    world-name: world
+    x: 189.33086475910113
+    y: 17.0
+    z: -367.49975425627906
+    yaw: 89.70101928710938
+    pitch: 0.45024168491363525
+  enderman:
+    world: 470e2207-a872-49b9-b368-0191edaf687b
+    world-name: world_the_end
+    x: 264.4987622263213
+    y: 91.0
+    z: -1.4961541125327136
+    yaw: -45.482269287109375
+    pitch: 6.599417686462402
+  creeper:
+    world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
+    world-name: world
+    x: 565.8648113402596
+    y: 71.0
+    z: -1371.382655945239
+    yaw: -167.86865234375
+    pitch: 7.650232791900635
