@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 45.226.12.182
+ip-address: 191.56.147.222
 afk: false
 socialspy: false
 npc: false
@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1706562891020
-  login: 1706562709064
+  logout: 1707280732951
+  login: 1707280596659
 money: '0'
-last-account-name: .HugoHG4527
+last-account-name: '*HugoHG4527'
 logoutlocation:
   world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
   world-name: world
-  x: 77.81159
-  y: 38.0
-  z: -424.69052
-  yaw: 166.70895385742188
-  pitch: 4.323455810546875
+  x: 201.77725
+  y: 64.0
+  z: -384.718
+  yaw: -101.455322265625
+  pitch: 15.801361083984375
 lastlocation:
   world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
   world-name: world
@@ -36,3 +36,5 @@ lastlocation:
   z: -168.9753
   yaw: -107.10618591308594
   pitch: 0.0
+past-usernames:
+- .HugoHG4527

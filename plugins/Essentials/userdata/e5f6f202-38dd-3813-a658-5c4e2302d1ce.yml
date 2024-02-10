@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 179.55.213.216
+ip-address: 179.55.211.147
 afk: false
 socialspy: false
 npc: false
@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1706710217095
+  lastteleport: 1707164665469
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1706749003690
-  login: 1706748970194
+  logout: 1707166687109
+  login: 1707156825896
 money: '0'
 last-account-name: _Barizon_
 lastlocation:
   world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
   world-name: world
-  x: 173.8786185877897
-  y: 63.0
-  z: -388.3473563065363
-  yaw: 25.29156494140625
-  pitch: 5.85004186630249
+  x: 164.5200165234084
+  y: -53.0
+  z: -327.76300185777484
+  yaw: -118.89752197265625
+  pitch: 33.45024490356445
 logoutlocation:
   world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
   world-name: world
-  x: 570.5323642081345
-  y: 74.5
-  z: -1365.9833034672974
-  yaw: -0.7878557443618774
-  pitch: 44.250850677490234
+  x: 182.96792284728087
+  y: 65.0
+  z: -471.17864423734113
+  yaw: 156.0478515625
+  pitch: 10.649653434753418
 homes:
   xp:
     world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe

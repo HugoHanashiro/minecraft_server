@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 138.204.211.130
+ip-address: 143.0.58.138
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1706467923617
-  login: 1706466322672
+  logout: 1707528182805
+  login: 1707522141125
 money: '1'
 last-account-name: Daniel
 lastlocation:
@@ -40,8 +40,8 @@ homes:
 logoutlocation:
   world: 0c678809-f5b9-47f8-8f65-719ddc1d0abe
   world-name: world
-  x: 137.51249998807907
+  x: 137.33478661496423
   y: 64.0
-  z: -364.7558533675026
-  yaw: -82.2115478515625
-  pitch: -13.665657043457031
+  z: -365.02001169690755
+  yaw: 17.17626953125
+  pitch: 23.37997817993164
